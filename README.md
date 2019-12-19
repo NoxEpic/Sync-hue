@@ -1,10 +1,8 @@
-# Hue Disco
+# Sync Hue 
 
-## Usage
-1. Install [node.js](http://nodejs.org/)
-2. Run `npm install` inside this directory.
-3. Run while on the same network as your Hue bridge:
+Digital Design A: Den Fysiske verden Projekt 
 
-```
-node server.js <ip address of Hue bridge>
-```
+Om vores ide: 
+Vores ide går ud på at brug Phillipe hue dev interface og API til og kunne lave en form for app så vi kan tilkoble spotify/music API til at kunne bruge musik til at lyse i takt med lyden. 
+
+Vi fik det ikke til at virke fordi vi nogle idioder der ikke sporte om hjælp
